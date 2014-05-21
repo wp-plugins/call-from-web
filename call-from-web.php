@@ -22,14 +22,14 @@ function cfw_options_page_fn() {
   <div class="wrap">
     <div class="icon32" id="icon-options-general"><br></div>
     <h2>Call From Web</h2>
-    Set up your domain widget ID here to be able to view your comments. <h3>Need a valid widget ID? <a href="http://www.call-from-web.com/users/sign_up">Sign up</a>.</h3>
+    Set up your domain widget ID here to be able to view your comments. <h3>Need a valid widget ID? <a href="http://www.call-from-web.com/users/sign_up?utm_source=wordpress&utm_medium=plugin&utm_campaign=settings">Sign up</a>.</h3>
     <form action="options.php" method="post">
     <?php settings_fields('cfw_plugin_options'); ?>
     <?php do_settings_sections(__FILE__); ?>
     <p class="submit">
       <input name="Submit" type="submit" class="button-primary" value="<?php esc_attr_e('Save Changes'); ?>" />
     </p>
-    <h3><a href="http://www.call-from-web.com/contact_attempts">Log in</a> to check for incoming calls.</h3>
+    <h3><a href="http://www.call-from-web.com/contact_attempts?utm_source=wordpress&utm_medium=plugin&utm_campaign=settings">Log in</a> to check for incoming calls.</h3>
     </form>
   </div>
 <?php
@@ -83,7 +83,7 @@ function cfw_addButton(){
 function cfw_no_api_key_provided_admin_notice() {
     $no_api_key_provided =<<<EOS
 <p>You have not entered your Widget ID for <b>Call From Web</b> plugin. <a href="options-general.php?page=call-from-web/call-from-web.php">Please enter your Widget ID here</a>.</p>
-<p><a href="http://www.call-from-web.com/users/sign_up">Get your Widget ID if you don't have one here.</a></p>
+<p><a href="http://www.call-from-web.com/users/sign_up?utm_source=wordpress&utm_medium=plugin&utm_campaign=notice">Get your Widget ID if you don't have one here.</a></p>
 EOS;
     ?>
     <div class="error">
