@@ -12,13 +12,13 @@ Let your visitors directly call you on the phone.
 
 == Description ==
 
-Let your website visitors call you for FREE. This plugin embeds a call button on your website without changing your theme files and lets your website visitors call and contact you directly from your website across the globe for free.
+Let your website visitors call you for FREE. This plugin embeds a call button on your website without changing your theme files and lets your website visitors call and contact you directly from your website anywhere around the world for free.
 
-[Call From Web](http://www.call-from-web.com?utm_source=wordpress&utm_medium=plugin&utm_content=description&utm_campaign=description) allows you to interact with your web visitors directly over phone. You can provide live support environment for your customers.
+[Call From Web](http://www.call-from-web.com?utm_source=wordpress&utm_medium=plugin&utm_content=description&utm_campaign=description) allows you to interact with your web visitors directly over phone. You can provide a live support environment for your customers.
 
 = What is Call From Web =
 
-Call From Web is a plugin that lets you embed a 'Call Us' button on your website to let your website visitors call directly without a contact form from your website for free. It is a simple click2call (call me) function and helps lot of businesses globally by allowing visitors to contact instantly. Call From Web offers flexible, easiest and instant way to reach you than a contact form in wordpress.
+Call From Web is a plugin that lets you embed a 'Call Us' button on your website, to let visitors to your website call you directly from your website for free - without the hassle of a contact form. Its simple click2call (call me) function helps lot of businesses globally, by allowing visitors to communicate with you instantly in real time. Call From Web offers a more flexible, easier and faster way to reach you than a contact form in wordpress.
 
 = Why Call From Web ? =
 
